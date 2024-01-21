@@ -1,0 +1,196 @@
+{
+    "members":[
+                {
+                  "id": "1254",
+                  "cin": "1234567",
+                  "name": "Ali",
+                  "createDate": "12/05/2023",
+                  "cv": "lien",
+                  "type": "teacher",
+                  "pub" : [{
+                    "id": "1",
+                    "titre": "pub1",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub2",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  } 
+                  ]
+                },
+                {
+                  "id": "2345",
+                  "cin": "9876543",
+                  "name": "Sara",
+                  "createDate": "15/06/2023",
+                  "cv": "another_link",
+                  "type": "student",
+                  "pub" : [{
+                    "id": "1",
+                    "titre": "pub1",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub2",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  } 
+                  ]
+                },
+                {
+                  "id": "3456",
+                  "cin": "5678901",
+                  "name": "Ahmed",
+                  "createDate": "20/07/2023",
+                  "cv": "resume_link",
+                  "type": "teacher",
+                  "pub" : [{
+                    "id": "1",
+                    "titre": "pub1",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub2",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  } 
+                  ]
+                },
+                {
+                  "id": "4567",
+                  "cin": "3456789",
+                  "name": "Lina",
+                  "createDate": "25/08/2023",
+                  "cv": "portfolio_link",
+                  "type": "student",
+                  "pub" : [{
+                    "id": "1",
+                    "titre": "pub1",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub2",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  } 
+                  ]
+                },
+                {
+                  "id": "5678",
+                  "cin": "7890123",
+                  "name": "Omar",
+                  "createDate": "30/09/2023",
+                  "cv": "profile_link",
+                  "type": "teacher",
+                  "pub" : [{
+                    "id": "1",
+                    "titre": "pub1",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub2",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  } 
+                  ]
+                },
+                {
+                  "id": "6789",
+                  "cin": "2109876",
+                  "name": "Nadia",
+                  "createDate": "05/10/2023",
+                  "cv": "linkedin_profile",
+                  "type": "student",
+                  "pub" : [{
+                    "id": "1",
+                    "titre": "pub1",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub2",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  } 
+                  ]
+                },
+                {
+                  "id": "7890",
+                  "cin": "6543210",
+                  "name": "Hassan",
+                  "createDate": "10/11/2023",
+                  "cv": "github_profile",
+                  "type": "teacher",
+                  "pub" : [{
+                    "id": "1",
+                    "titre": "pub1",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub2",
+                    "date": "10/11/2023",
+                    "lien": "test",
+                    "type": "test",
+                    "sourcePdf": "test"
+                  } 
+                  ]
+                }
+              ],
+    "pubs":[{
+                "id": "1",
+                "titre": "pub1",
+                "date": "10/11/2023",
+                "lien": "test",
+                "type": "test",
+                "sourcePdf": "test"
+              },
+              {
+                "id": "2",
+                "titre": "pub2",
+                "date": "10/11/2023",
+                "lien": "test",
+                "type": "test",
+                "sourcePdf": "test"
+              } 
+              ]
+}
