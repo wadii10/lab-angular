@@ -18,9 +18,15 @@ export class ArticleComponent {
     dialogConfig.disableClose = true;
     dialogConfig.autoFocus = true;
 
-    
+    const dialogRef = this.dialog.open(PublicationformComponent, dialogConfig);
 
-    this.dialog.open(PublicationformComponent, dialogConfig);
+    dialogRef.afterClosed().subscribe(
+      data => {console.log("Dialog output:", data) ; 
+      this.AS.save(data).subscribe( ()=> {
+        this.dataSource = this.AS.tab;
+      })
+    }
+  );
 }
   
   dataSource : Pub[] = this.AS.tab;
