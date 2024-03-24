@@ -27,11 +27,16 @@ export class ArticleComponent {
       })
     }
   );
-}
+  }
+
+  onDelete(id:string):void{
+    
+    
+  }
   
   dataSource : Pub[] = this.AS.tab;
 
-  displayedColumns: string[] = ['id' ,'titre', 'date', 'lien', 'type','sourcePdf'];
+  displayedColumns: string[] = ['id' ,'titre', 'date', 'lien', 'type','sourcePdf', 'action'];
 
   
 }

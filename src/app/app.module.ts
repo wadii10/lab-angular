@@ -27,6 +27,7 @@ import { ArticleComponent } from './article/article.component';
 import { EventComponent } from './event/event.component';
 import { MatCardModule} from '@angular/material/card';
 import { MatPaginatorModule} from '@angular/material/paginator';
+import {MatDatepickerModule} from '@angular/material/datepicker';
 
 @NgModule({
   declarations: [
@@ -62,7 +63,10 @@ import { MatPaginatorModule} from '@angular/material/paginator';
     MatMenuModule,
     FirebaseModule,
     MatCardModule,
-    MatPaginatorModule
+    MatPaginatorModule,
+    MatDatepickerModule,
+    MatNativeDateModule,
+    NgChartsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
@@ -70,4 +74,6 @@ import { MatPaginatorModule} from '@angular/material/paginator';
 export class AppModule { }import { FirebaseModule } from 'src/Firebase.module-2';
 import { LoginComponent } from './login/login.component';
 import { PublicationformComponent } from './publicationform/publicationform.component';
+import { MatNativeDateModule } from '@angular/material/core';
+import { NgChartsModule } from 'ng2-charts';
 

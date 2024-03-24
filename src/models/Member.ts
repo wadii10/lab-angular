@@ -1,3 +1,4 @@
+import { Events } from "./Events";
 import { Pub } from "./Pub";
 
 export interface Member
@@ -8,5 +9,6 @@ export interface Member
     createDate: string,
     cv: string,
     type: string,
-    pub : Pub[]
+    pub : Pub[],
+    events: Events[]
 }

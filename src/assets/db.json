@@ -23,6 +23,21 @@
                     "type": "test",
                     "sourcePdf": "test"
                   } 
+                  ],
+                  "events":[{
+                    "id": "1",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  }
                   ]
                 },
                 {
@@ -39,15 +54,23 @@
                     "lien": "test",
                     "type": "test",
                     "sourcePdf": "test"
+                  }
+      
+                  ],
+                  "events":[{
+                    "id": "1",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
                   },
                   {
                     "id": "2",
-                    "titre": "pub2",
-                    "date": "10/11/2023",
-                    "lien": "test",
-                    "type": "test",
-                    "sourcePdf": "test"
-                  } 
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  }
                   ]
                 },
                 {
@@ -73,6 +96,21 @@
                     "type": "test",
                     "sourcePdf": "test"
                   } 
+                  ],
+                  "events":[{
+                    "id": "1",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  }
                   ]
                 },
                 {
@@ -98,6 +136,21 @@
                     "type": "test",
                     "sourcePdf": "test"
                   } 
+                  ],
+                  "events":[{
+                    "id": "1",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  }
                   ]
                 },
                 {
@@ -123,6 +176,21 @@
                     "type": "test",
                     "sourcePdf": "test"
                   } 
+                  ],
+                  "events":[{
+                    "id": "1",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  }
                   ]
                 },
                 {
@@ -148,6 +216,21 @@
                     "type": "test",
                     "sourcePdf": "test"
                   } 
+                  ],
+                  "events":[{
+                    "id": "1",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  }
                   ]
                 },
                 {
@@ -173,6 +256,21 @@
                     "type": "test",
                     "sourcePdf": "test"
                   } 
+                  ],
+                  "events":[{
+                    "id": "1",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  },
+                  {
+                    "id": "2",
+                    "titre": "pub1",
+                    "dateDebut": "10/11/2023",
+                    "dateFin": "10/11/2023",
+                    "lieu": "test"
+                  }
                   ]
                 }
               ],
@@ -192,5 +290,21 @@
                 "type": "test",
                 "sourcePdf": "test"
               } 
+              ],
+              "events":[{
+                "id": "1",
+                "titre": "pub1",
+                "dateDebut": "10/11/2023",
+                "dateFin": "10/11/2023",
+                "lieu": "test"
+              },
+              {
+                "id": "2",
+                "titre": "pub1",
+                "dateDebut": "10/11/2023",
+                "dateFin": "10/11/2023",
+                "lieu": "test"
+              }
               ]
+              
 }
